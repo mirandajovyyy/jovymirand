@@ -1,0 +1,28 @@
+body { 
+    background: url(background.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+  h1{
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px black;
+    font-weight: 900;
+  }
+.jovy{
+  border-radius: 50%;
+  width: 80%;
+  height: 32vh;
+  box-shadow: 8px 8px 16px black;
+  
+}
+.nav-brand{
+  font-weight: 500;
+}
+.navbar{
+  box-shadow: 2px 2px 5px rgb(223, 177, 9);
+  font-size: 1.2rem;
+  font-weight: 700;
+}
